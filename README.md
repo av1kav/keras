@@ -25,6 +25,7 @@ Here are the last few epochs of training on a dataset from Wikimedia Commons use
 Now, with the weights of the model saved as a .h5 file, I use the prediction module to predict m.jpg, an image from the test set:
 
 ![alt text](https://raw.githubusercontent.com/av1kav/keras/master/pictures/m.jpg)
+
 m.jpg
 
 and the validation result is a follows:
