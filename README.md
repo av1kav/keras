@@ -20,7 +20,7 @@ Using the CPU verison of Tensorflow (backend) epochs routinely took over 530 sec
 
 Here are the last few epochs of training on a dataset from Wikimedia Commons used in a Google Developers Codelab for Machine Learning. With the last epoch, the model attained an accuracy of 87.25%.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/av1kav/keras/master/pictures/epochs.png)
 
 Now, with the weights of the model saved as a .h5 file, I use the prediction module to predict m.jpg, an image from the test set:
 
