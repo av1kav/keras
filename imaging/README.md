@@ -6,4 +6,4 @@ This fully custom-built module uses an available camera or imaging device (such 
   * A loop to delete all files having a '0' in them (this *needs* changing)
   * A mechanism to neatly sort groups of images into a folder structure of label names
 
-Note that the imaging module is buuilt for Windows and uses a \\ character.
+Note that the imaging module is built for Windows and uses a \\ character.
