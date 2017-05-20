@@ -28,4 +28,4 @@ Now, with the weights of the model saved as a .h5 file, I use the prediction mod
 m.jpg
 
 and the validation result is a follows:
-![alt text](https://raw.githubusercontent.com/av1kav/keras/master/pictures/validation.jpg)
+![alt text](https://raw.githubusercontent.com/av1kav/keras/master/pictures/validation.png)
